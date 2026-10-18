@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="name">Kirill Pecheritsa</string>
+    <string name="title">Data Scientist | ML Engineer</string>
+    <string name="email">pecheritsakirill@gmail.com</string>
+    <string name="phone">+34 (601) 86-72-51</string>
+    <string name="telegram">t.me/kIllRe4l</string>
+    <string name="github">github.com/k1llRe4l</string>
+    <string name="card_eyebrow">PERSONAL DIGITAL CARD</string>
+    <string name="photo_description">Portrait of %1$s</string>
+    <string name="qr_description">QR code for connecting with %1$s</string>
+    <string name="scan_to_connect">SCAN TO CONNECT</string>
+</resources>
