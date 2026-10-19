@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Business Card</string>
+    <string name="app_name">My Business Card</string>
     <string name="name">Kirill Pecheritsa</string>
     <string name="title">Data Scientist | ML Engineer</string>
     <string name="email">pecheritsakirill@gmail.com</string>
